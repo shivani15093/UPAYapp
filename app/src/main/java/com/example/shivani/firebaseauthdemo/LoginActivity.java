@@ -48,25 +48,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         {
             //profile activity
             finish();
-            startActivity(new Intent(getApplicationContext(),ProfileActivity.class));
+            startActivity(new Intent(getApplicationContext(),NavigationDrawerActivity.class));
         }
-
-       /* Login.setOnClickListener(new View.OnClickListener()
-        {
-            public void onClick(View v)
-            {
-                userLogin();
-            }
-        });
-
-        TextViewRegister.setOnClickListener(new View.OnClickListener()
-        {
-            public void onClick(View view)
-            {
-                finish();
-                startActivity(new Intent(LoginActivity.this , MainActivity.class));
-            }
-        });*/
     }
 
     private void userLogin()
@@ -95,9 +78,13 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 if(task.isSuccessful())
                 {
                     //profilleActivity start
-                    // Toast.makeText(this, "Start Profie Activity !", Toast.LENGTH_SHORT).show();
+                    //Toast.makeText(this, "Start Profie Activity !", Toast.LENGTH_SHORT).show();
                     finish();
-                    startActivity(new Intent(getApplicationContext(),ProfileActivity.class));
+                    startActivity(new Intent(getApplicationContext(),NavigationDrawerActivity.class));
+                }
+                else
+                {
+                    //Toast.makeText(this, "Login Unsuccessful !", Toast.LENGTH_SHORT).show();
                 }
 
 

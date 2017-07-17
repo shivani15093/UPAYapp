@@ -35,7 +35,7 @@ public class UpdateProfileActivity extends AppCompatActivity implements View.OnC
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_update_profile);
 
-        databaseReference = FirebaseDatabase.getInstance().getReference();
+        databaseReference = FirebaseDatabase.getInstance().getReference("volunteers");
         firebaseAuth = FirebaseAuth.getInstance();
         Email = (TextView) findViewById(R.id.textViewEmail);
         Name = (EditText) findViewById(R.id.editTextName);
@@ -68,7 +68,7 @@ public class UpdateProfileActivity extends AppCompatActivity implements View.OnC
         FirebaseUser user = firebaseAuth.getCurrentUser();
         databaseReference.child(user.getUid()).setValue(userInformation);
         Toast.makeText(this , "Information Saved" , Toast.LENGTH_LONG).show();
-        startActivity(new Intent(this , ProfileActivity.class));
+        startActivity(new Intent(this , NavigationDrawerActivity.class));
     }
 
     @Override

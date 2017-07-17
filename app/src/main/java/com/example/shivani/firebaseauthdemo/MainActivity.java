@@ -2,12 +2,14 @@ package com.example.shivani.firebaseauthdemo;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -19,6 +21,9 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseAuthException;
+
+import static android.R.id.message;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener
 {
@@ -33,6 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
+        FirebaseAuth.getInstance().signOut();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -46,23 +52,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Register.setOnClickListener(this);
         TextViewSignin.setOnClickListener(this);
 
-       /* Register.setOnClickListener(new View.OnClickListener()
-        {
-            public void onClick(View v)
-            {
-                registerUser();
-            }
-        });
-
-
-        TextViewSignin.setOnClickListener(new View.OnClickListener()
-        {
-            public void onClick(View v)
-            {
-                finish();
-                startActivity(new Intent(MainActivity.this , LoginActivity.class));
-            }
-        });*/
     }
 
     private void registerUser()
@@ -105,6 +94,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         });
     }
 
+
+
     @Override
     public void onClick(View view)
     {
@@ -120,6 +111,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
 
     }
+
+
+    
 }
 
 

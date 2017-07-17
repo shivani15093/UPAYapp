@@ -4,7 +4,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent" >
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/back3" >
+        android:layout_width="match_parent" android:layout_height="match_parent"  >
         <LinearLayout
             android:id="@+id/LinearLayout01"
             android:layout_width="fill_parent"
@@ -13,20 +13,96 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true">
 
-            <TextView
-                android:id="@+id/textViewEmail"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="kaha hai"
-                android:textAlignment="center"
-                android:textSize="18sp" />
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
 
-            <Button
-                android:id="@+id/buttonLogout"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Logout" />
+                <ImageButton
+                    android:id="@+id/studentRegisteration"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:src="@drawable/studentregisteration"
+                    android:layout_marginTop="50dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignLeft="@+id/viewDatabase"
+                    android:layout_alignStart="@+id/viewDatabase"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
 
+
+                <ImageButton
+                    android:id="@+id/viewDatabase"
+                    android:layout_width="170dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/viewdatabase"
+                    android:layout_below="@+id/studentRegisteration"
+                    android:layout_toStartOf="@+id/contacts"
+                    android:layout_toLeftOf="@+id/contacts" />
+
+
+                <ImageButton
+                    android:id="@+id/contacts"
+                    android:layout_width="170dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/contacts"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_below="@+id/studentRegisteration"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+                <ImageButton
+                    android:id="@+id/guidlines"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:src="@drawable/guidlines"
+                    android:layout_marginTop="11dp"
+                    android:layout_below="@+id/viewDatabase"
+                    android:layout_alignLeft="@+id/downloadForms"
+                    android:layout_alignStart="@+id/downloadForms"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+                <ImageButton
+                    android:id="@+id/downloadForms"
+                    android:layout_width="200dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/downloadforms"
+                    android:layout_below="@+id/guidlines"
+                    android:layout_alignLeft="@+id/viewDatabase"
+                    android:layout_alignStart="@+id/viewDatabase"
+                    android:layout_toStartOf="@+id/uploadPhoto"
+                    android:layout_toLeftOf="@+id/uploadPhoto" />
+
+                <ImageButton
+                    android:id="@+id/uploadPhoto"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/uploadphoto"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+                <Button
+                    android:id="@+id/buttonLogout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignEnd="@+id/contacts"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignRight="@+id/contacts"
+                    android:text="Logout" />
+
+                <TextView
+                    android:id="@+id/textViewEmail"
+                    android:text="Email ID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:layout_alignBaseline="@+id/buttonLogout"
+                    android:layout_alignBottom="@+id/buttonLogout"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
         </LinearLayout>
     </RelativeLayout>
 </ScrollView>
