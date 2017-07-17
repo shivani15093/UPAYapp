@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

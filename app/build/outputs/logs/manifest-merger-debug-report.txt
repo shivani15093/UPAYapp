@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/shivani/.android/build-cache/9555f2a1c1d8c40bd5ceb68892c57598dd9a2875/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /home/shivani/.android/build-cache/c807c0bfc9cf0fa842c5f0153c29a8bb36d61a3d/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/shivani/.android/build-cache/aedec589409a9aeb98b2bcc201514a583b8b5695/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:9.2.0] /home/shivani/.android/build-cache/cbc18122b3b8de6a78f4f01b661907d5b3fef5b8/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] /home/shivani/.android/build-cache/f8fd729082fe499860aa64cda532ec03ee502af9/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.android.support:cardview-v7:21.0.3] /home/shivani/.android/build-cache/fe9d1f1e1ef14a224b7c59b38ccd1ef2d3720c0b/output/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:design:25.3.0] /home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.0] /home/shivani/.android/build-cache/d079a0217b6916848f095ed3e3d27f7e9b9f3f94/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/shivani/.android/build-cache/8318a2ccd7c532873763ce5c6ca22b080268f458/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/shivani/.android/build-cache/bfb2a8b7445486eb75a860cc69db3d9dbdf9259d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /home/shivani/.android/build-cache/ed2b6a1474156b9a13abfdf58454819e0103c9ce/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-core:9.2.0] /home/shivani/.android/build-cache/c78de22f00ca3b0c76d5a3ef1174f3a962ee4a2c/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /home/shivani/.android/build-cache/c807c0bfc9cf0fa842c5f0153c29a8bb36d61a3d/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.0] /home/shivani/.android/build-cache/4f3bf5c898c04b45f8bbcb1190f728b22fac1207/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /home/shivani/.android/build-cache/56fd373834c4bcd182de1149117300d1073eb1a8/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /home/shivani/.android/build-cache/68f54f1681c6e17c7947fc8c72b0011565369e80/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.0] /home/shivani/.android/build-cache/bcd0757bfba1f1ef651374dfad1ef95b5e53a08a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/shivani/.android/build-cache/880133f6569c62cc8d6785d11c50d5e5cc5bcb23/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/shivani/.android/build-cache/fa1ac4367f43a30835275a1c29fc6f963c80f0ac/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/shivani/.android/build-cache/215642483187cfd719056e1cb2d2b9d8d504be3b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/shivani/.android/build-cache/bb4015d51c8318318014845a916cc5ba1ed4b4c6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/shivani/.android/build-cache/cacac00bbc8e4906fd7a253aa87891397c4f078a/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.shivani.firebaseauthdemo.MainActivity
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.shivani.firebaseauthdemo.LoginActivity
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:21:19-48
+activity#com.example.shivani.firebaseauthdemo.UpdateProfileActivity
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:22:19-56
+activity#com.example.shivani.firebaseauthdemo.StudentRegisterationActivity
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:23:9-66
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:23:19-63
+activity#com.example.shivani.firebaseauthdemo.NavigationDrawerActivity
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:24:9-27:59
+	android:label
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:26:13-69
+	android:theme
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:25:13-53
+activity#com.example.shivani.firebaseauthdemo.ViewStudentsActivity
+ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:28:9-67
+	android:name
+		ADDED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml:28:19-55
+uses-sdk
+INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/shivani/.android/build-cache/aedec589409a9aeb98b2bcc201514a583b8b5695/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:9.2.0] /home/shivani/.android/build-cache/cbc18122b3b8de6a78f4f01b661907d5b3fef5b8/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.2.0] /home/shivani/.android/build-cache/f8fd729082fe499860aa64cda532ec03ee502af9/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.0] /home/shivani/.android/build-cache/cb2d20b8cacccff3d92bb78ccd74ff739e6e609d/output/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:cardview-v7:21.0.3] /home/shivani/.android/build-cache/fe9d1f1e1ef14a224b7c59b38ccd1ef2d3720c0b/output/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:design:25.3.0] /home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.0] /home/shivani/.android/build-cache/d079a0217b6916848f095ed3e3d27f7e9b9f3f94/output/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/shivani/.android/build-cache/9555f2a1c1d8c40bd5ceb68892c57598dd9a2875/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/shivani/.android/build-cache/8318a2ccd7c532873763ce5c6ca22b080268f458/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/shivani/.android/build-cache/bfb2a8b7445486eb75a860cc69db3d9dbdf9259d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/shivani/.android/build-cache/9fe7d90eefbc24008212a23e7f1170b14afd8dd6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:9.2.0] /home/shivani/.android/build-cache/689540e50f60062944f1db9c9f36da5066b0d725/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.2.0] /home/shivani/.android/build-cache/f186245b23cbc6f95b4086e862c054c6b696c1e6/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /home/shivani/.android/build-cache/ed2b6a1474156b9a13abfdf58454819e0103c9ce/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.2.0] /home/shivani/.android/build-cache/c78de22f00ca3b0c76d5a3ef1174f3a962ee4a2c/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /home/shivani/.android/build-cache/c807c0bfc9cf0fa842c5f0153c29a8bb36d61a3d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.0] /home/shivani/.android/build-cache/4f3bf5c898c04b45f8bbcb1190f728b22fac1207/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /home/shivani/.android/build-cache/56fd373834c4bcd182de1149117300d1073eb1a8/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /home/shivani/.android/build-cache/68f54f1681c6e17c7947fc8c72b0011565369e80/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.0] /home/shivani/.android/build-cache/bcd0757bfba1f1ef651374dfad1ef95b5e53a08a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/shivani/.android/build-cache/880133f6569c62cc8d6785d11c50d5e5cc5bcb23/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/shivani/.android/build-cache/fa1ac4367f43a30835275a1c29fc6f963c80f0ac/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/shivani/.android/build-cache/215642483187cfd719056e1cb2d2b9d8d504be3b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/shivani/.android/build-cache/bb4015d51c8318318014845a916cc5ba1ed4b4c6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /home/shivani/.android/build-cache/cacac00bbc8e4906fd7a253aa87891397c4f078a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.0] /home/shivani/.android/build-cache/d079a0217b6916848f095ed3e3d27f7e9b9f3f94/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/shivani/.android/build-cache/8318a2ccd7c532873763ce5c6ca22b080268f458/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/shivani/.android/build-cache/bfb2a8b7445486eb75a860cc69db3d9dbdf9259d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/shivani/.android/build-cache/9fe7d90eefbc24008212a23e7f1170b14afd8dd6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/shivani/.android/build-cache/bcd0757bfba1f1ef651374dfad1ef95b5e53a08a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/shivani/.android/build-cache/880133f6569c62cc8d6785d11c50d5e5cc5bcb23/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/shivani/.android/build-cache/fa1ac4367f43a30835275a1c29fc6f963c80f0ac/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/shivani/.android/build-cache/215642483187cfd719056e1cb2d2b9d8d504be3b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/shivani/.android/build-cache/bb4015d51c8318318014845a916cc5ba1ed4b4c6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/shivani/.android/build-cache/cacac00bbc8e4906fd7a253aa87891397c4f078a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.0] /home/shivani/.android/build-cache/ed2b6a1474156b9a13abfdf58454819e0103c9ce/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /home/shivani/.android/build-cache/ed2b6a1474156b9a13abfdf58454819e0103c9ce/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /home/shivani/.android/build-cache/ed2b6a1474156b9a13abfdf58454819e0103c9ce/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /home/shivani/.android/build-cache/ed2b6a1474156b9a13abfdf58454819e0103c9ce/output/AndroidManifest.xml:20:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /home/shivani/.android/build-cache/c807c0bfc9cf0fa842c5f0153c29a8bb36d61a3d/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /home/shivani/.android/build-cache/c807c0bfc9cf0fa842c5f0153c29a8bb36d61a3d/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /home/shivani/.android/build-cache/c807c0bfc9cf0fa842c5f0153c29a8bb36d61a3d/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.0] /home/shivani/.android/build-cache/c807c0bfc9cf0fa842c5f0153c29a8bb36d61a3d/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.0] /home/shivani/.android/build-cache/b3b9b50c89bbb3f0ff465a6d91a3b3231251637c/output/AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.0] /home/shivani/.android/build-cache/c3427c2bc2e591780e3b9aa47e039b55860ff43c/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.0] /home/shivani/.android/build-cache/4f3bf5c898c04b45f8bbcb1190f728b22fac1207/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.0] /home/shivani/.android/build-cache/4f3bf5c898c04b45f8bbcb1190f728b22fac1207/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.0] /home/shivani/.android/build-cache/4f3bf5c898c04b45f8bbcb1190f728b22fac1207/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.0] /home/shivani/.android/build-cache/4f3bf5c898c04b45f8bbcb1190f728b22fac1207/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.0] /home/shivani/.android/build-cache/4f3bf5c898c04b45f8bbcb1190f728b22fac1207/output/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.0] /home/shivani/.android/build-cache/68f54f1681c6e17c7947fc8c72b0011565369e80/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.0] /home/shivani/.android/build-cache/68f54f1681c6e17c7947fc8c72b0011565369e80/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.0] /home/shivani/.android/build-cache/68f54f1681c6e17c7947fc8c72b0011565369e80/output/AndroidManifest.xml:22:13-58

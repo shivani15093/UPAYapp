@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shivani/.android/build-cache/9555f2a1c1d8c40bd5ceb68892c57598dd9a2875/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/pre-dexed/debug/classes_33d3636dc93752019ffb4ab3fe74157562fa3832.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
