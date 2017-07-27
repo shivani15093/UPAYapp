@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
         "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/layout-v11/notification_media_action.xml"
     },
@@ -12,8 +16,28 @@
         "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
         "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",

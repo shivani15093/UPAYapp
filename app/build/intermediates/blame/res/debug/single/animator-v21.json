@@ -2,5 +2,9 @@
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
         "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/animator-v21/design_appbar_state_list_animator.xml"
     }
 ]

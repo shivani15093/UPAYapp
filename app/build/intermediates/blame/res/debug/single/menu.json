@@ -6,5 +6,13 @@
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/menu/activity_navigation_drawer_drawer.xml",
         "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/menu/activity_navigation_drawer_drawer.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/menu/navigation_drawer.xml",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/menu/navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/menu/activity_navigation_drawer_drawer.xml",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/menu/activity_navigation_drawer_drawer.xml"
     }
 ]

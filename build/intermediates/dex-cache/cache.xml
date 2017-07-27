@@ -2,13 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/shivani/.android/build-cache/9555f2a1c1d8c40bd5ceb68892c57598dd9a2875/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/eeb13133aa4b31fe6a468bbd8009dce7625570a1/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
-        revision="25.0.2"
+        revision="25.0.3"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bff123b7195df353413d88b3248bc09a43b0216a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/3e41fe8ed68da9257af9fd5038cd13ff10b17b78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8afcd0d9839451affe14e113c82b15119e70164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/2e3c38322e69190304425bdec6190d42eb2ba6a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea78cdfbcaa831d509216b71a15e9c1f13004a35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/84f9f55837992b0ab6090bf32017dd063aa9be94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44067fb11aa91a0e379e719ccd8d166b79ffb454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/e84258d60fe60e5f09d9104d5e55bfd27b48c042/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7a8ee781a31e71a5cf4f07324446bdfd1a9d397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/92bb3072baef2120539e475c2a501e3bfe5e2e9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5bf7dce5bcd8203e8e011d97718f964335bd5469/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/c488322858626575244ab4e34a2244a5a72e559a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_effa7a717867d4c68b1d2b059da5653681b4342f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/e49c54db076771397874fc217329b6dceee51aea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04c447e5608315e2e2b71b3eb8021380baa85a0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/52bfc22b801b86a667226e3ca78500c3a7310085/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0be3f042c0e79046d1742f23fd6c301c516d5995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/3ebdc8048d26dd177306f0d49779b6ff33c53803/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_920a77c08a1203d6cf25a137b705a8a83181e661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/04b7d129fe467816e97938f21689ac6116e66f7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3899c13e71442ea82a80e752daaa84b25d31fe4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.1_623480101d3dcd0e9583717fa05637b7149bd28c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/e352051236a6bd4078ef3ca69a326351132e1615/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c372e9fcd4a49032d995ddcd21677da4c4c963c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/dfaf1dbd9a822f4d803b82a537f825670e3603f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
         sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
-        <dex dex="/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/pre-dexed/debug/classes_33d3636dc93752019ffb4ab3fe74157562fa3832.jar" />
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_394777f96d1ab2d243fe5611c6b0d441875ccc81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b79accb60d111623b64bc7c83af8e8298d0a8e33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ddf18054837c57deed369908fa1f73ee78b7e2b">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ed17ec8cd696fcba072fe86fc05726d2bf8b264e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rstintl/.android/build-cache/af499089e95c1f02668783e7edf38c08255a8a62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64f59ea43dbded834ec75502a002c2ff786f0f98/classes.dex" />
     </item>
 
 </items>

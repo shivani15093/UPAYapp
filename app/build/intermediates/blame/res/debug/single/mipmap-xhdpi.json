@@ -4,7 +4,15 @@
         "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     }
 ]

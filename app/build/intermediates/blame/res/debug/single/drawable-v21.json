@@ -8,6 +8,46 @@
         "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/drawable-v21/avd_show_password.xml"
     },
     {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
         "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/drawable-v21/ic_menu_camera.xml"
     },
@@ -20,8 +60,16 @@
         "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
     },
     {
-        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
-        "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
@@ -32,8 +80,8 @@
         "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/drawable-v21/design_password_eye.xml"
     },
     {
-        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
-        "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
@@ -44,15 +92,23 @@
         "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
         "source": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/src/main/res/drawable-v21/ic_menu_share.xml"
     },
     {
-        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
     }
 ]

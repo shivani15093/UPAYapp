@@ -1,7 +1,51 @@
 [
     {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_fade_in.xml"
+    },
+    {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
@@ -16,6 +60,10 @@
         "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
         "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/anim/design_fab_in.xml"
     },
@@ -24,16 +72,36 @@
         "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/anim/design_fab_out.xml"
+    },
+    {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/rstintl/.android/build-cache/bbcddc26f3193dc7f56d5cdcee953721996c0c98/output/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
@@ -44,12 +112,8 @@
         "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/shivani/.android/build-cache/c1992242b8541becc8aa2c00748f62e5214a7342/output/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/home/shivani/.android/build-cache/b9cf28b36938e80546ea65c2c9dae062d6413a81/output/res/anim/design_snackbar_out.xml"
+        "merged": "/Users/rstintl/Desktop/AndroidStudio/UpayAppNew/UPAYapp/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/rstintl/.android/build-cache/efddc620c9cf06ae2c18f981a51f968b75307253/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/home/shivani/AndroidStudioProjects/FirebaseAuthDemo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",

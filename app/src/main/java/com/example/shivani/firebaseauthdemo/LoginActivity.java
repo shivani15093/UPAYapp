@@ -80,7 +80,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                     //profilleActivity start
                     //Toast.makeText(this, "Start Profie Activity !", Toast.LENGTH_SHORT).show();
                     finish();
-                    startActivity(new Intent(getApplicationContext(),NavigationDrawerActivity.class));
+                 startActivity(new Intent(getApplicationContext(),NavigationDrawerActivity.class));
+
                 }
                 else
                 {
